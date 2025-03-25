@@ -71,9 +71,10 @@ para todos los alumnos.
 Reentrega 24/06/2025: aquellos grupos que deban realizar correcciones contarán con esta
 fecha para volver a entregar el trabajo práctico. Esta es la última oportunidad para aprobarlo.
 
-##Enunciado
+## Enunciado
 
-EJERCICIO 1 - Análisis Exploratorio de Datos
+### EJERCICIO 1 - Análisis Exploratorio de Datos
+
 El objetivo es realizar un análisis completo del conjunto de datos, aplicar técnicas de exploración
 y de preprocesamiento para poder responder algunas preguntas que se planteen sobre los
 datos. En este ejercicio trabajaremos sobre un conjunto de datos sobre el uso de taxis Yellow
@@ -85,7 +86,6 @@ a) Exploración Inicial : analizar cada variable, considerando los siguientes as
 ● Realizar un análisis gráfico de las distribuciones de las variables más relevantes
 ● Analizar las correlaciones existentes entre las variables.
 b) Datos Faltantes : analizar la presencia de datos faltantes en el dataset
-
 ● Realizar análisis de datos faltantes. Graficar para cada variable el porcentaje de datos
 faltantes con respecto al total del dataset. Calcular el porcentaje de datos faltantes de cada
 registro.
@@ -110,7 +110,8 @@ preguntas sobre los datos.
 Nota : Los ítems a, b, c, d, e y f son los mínimos requeridos para esta etapa, cada grupo puede
 sumar técnicas y/o análisis adicionales.
 
-EJERCICIO 2 - Modelos de Clasificación Binaria
+### EJERCICIO 2 - Modelos de Clasificación Binaria
+
 En este ejercicio vamos a usar datos de distintas estaciones meteorológicas de Australia. El
 objetivo es predecir si lloverá o no al día siguiente (variable RainTomorrow), en función de los
 datos meteorológicos del día actual. Cada grupo deberá seleccionar las Locations de acuerdo a
@@ -152,7 +153,8 @@ c) Cuadro de resultados: armar un cuadro comparativo de los resultados obtenidos
 modelos y responder la siguiente pregunta ¿Qué modelo elegirían para predecir si lloverá o no
 al día siguiente?
 
-EJERCICIO 3 - Regresión
+### EJERCICIO 3 - Regresión
+
 En este ejercicio vamos a usar datos de alojamientos de la plataforma AirBnB. El objetivo es
 predecir el precio de alquiler de una propiedad (price) en función de los datos publicados en el
 aviso. Cada grupo deberá seleccionar el archivo “Detailed Listings data” correspondiente a una
@@ -183,7 +185,8 @@ c) Cuadro de resultados: armar un cuadro comparativo de los resultados obtenidos
 modelos y responder la siguiente pregunta ¿Qué modelo elegirían para predecir el precio de
 alquiler de un Airbnb en la ciudad seleccionada?
 
-EJERCICIO 4 - Agrupamiento (Clustering)
+### EJERCICIO 4 - Agrupamiento (Clustering)
+
 En este punto se busca analizar si es posible agrupar los datos en función de algún criterio.
 Vamos a utilizar un conjunto de datos que contiene información sobre algunos tracks
 (canciones) de Spotify. Para conocer en detalle cada atributo del dataset pueden consultar el
